@@ -1,4 +1,4 @@
-# Showcase App
+# Typescript/GraphQL/Next
 A Typescript/GraphQL Server + Next Js
 
 ## Features
