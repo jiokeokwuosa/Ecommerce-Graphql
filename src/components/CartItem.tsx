@@ -41,7 +41,7 @@ export function CartItem({
             width={75}
             height={75}
             alt={item.name}
-            objectFit="cover"
+            // objectFit="cover"
           />
           <div className="flex justify-between items-baseline flex-1 gap-2">
             <span className="text-lg">{item.name}</span>

@@ -22,7 +22,7 @@ export function ProductItem({
         src={src}
         alt={title}
         layout="fill"
-        objectFit="cover"
+        // objectFit="cover"
       />
     </div>
   );
